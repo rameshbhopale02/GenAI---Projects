@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+youtube_transcript_api
+scipy
+phonemizer
